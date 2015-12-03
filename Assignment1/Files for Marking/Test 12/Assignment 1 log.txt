@@ -1,0 +1,7 @@
+Start processing file: Test 12 - wordlist.csv
+Error: word list size (150) does not match with total words found (150)
+End procesing fileTest 12 - wordlist.csv
+Log file is closed
+Start processing file: Test 12 - crozzle.txt
+End procesing fileTest 12 - crozzle.txt
+Log file is closed

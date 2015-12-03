@@ -1,0 +1,686 @@
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+Error: line 1: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[1, 1] has " ROBERT        ", cell should be empty or has only 1 alphabetic character
+Error: line 2: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 2: block[2, 1] has "   I    OSCAR W", cell should be empty or has only 1 alphabetic character
+Error: line 3: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 3: block[3, 1] has " JILL     H   E", cell should be empty or has only 1 alphabetic character
+Error: line 4: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 4: block[4, 1] has " E L    H A   N", cell should be empty or has only 1 alphabetic character
+Error: line 5: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 5: block[5, 1] has " S      A R   D", cell should be empty or has only 1 alphabetic character
+Error: line 6: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 6: block[6, 1] has " S MARY R LARRY", cell should be empty or has only 1 alphabetic character
+Error: line 7: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 7: block[7, 1] has " I A O  R E    ", cell should be empty or has only 1 alphabetic character
+Error: line 8: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 8: block[8, 1] has " C R GARY S    ", cell should be empty or has only 1 alphabetic character
+Error: line 9: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 9: block[9, 1] has "JACK E         ", cell should be empty or has only 1 alphabetic character
+Error: line 10: row contains 1 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 10: block[10, 1] has "     R         ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: line 1: row contains 194 columns which is wrong, the right one is 15 columns
+Total rows should be equals with total columns
+Error: line 1: block[194, 1] has "3", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 2] has "0", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 3] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 4] has "1", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 5] has "0", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 6] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 7] has "1", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 8] has "5", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 9] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 14] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 19] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 26] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 32] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 37] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 44] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 52] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 57] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 62] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 69] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 76] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 82] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 87] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 95] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 100] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 110] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 116] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 121] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 126] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 134] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 140] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 144] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 150] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 157] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 163] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 167] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 174] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 179] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 185] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: block[194, 189] has ",", cell should be empty or has only 1 alphabetic character
+Error: line 1: file contains 1 rows which is wrong, the right one is 10 rows
+Total rows should be equals with total columns and game properties
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: crozzy.txt
+End procesing filecrozzy.txt
+Log file is closed
+Start processing file: crozzy.txt
+End procesing filecrozzy.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed

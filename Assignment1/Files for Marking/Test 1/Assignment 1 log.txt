@@ -1,0 +1,124 @@
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Error: word list size (30) does not match with total words found (30)
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed
+Start processing file: Test 1 - wordlist.csv
+Test 1 - wordlist.csvfile is valid, cheers!
+End procesing fileTest 1 - wordlist.csv
+Log file is closed
+Start processing file: Test 1 - crozzle.txt
+End procesing fileTest 1 - crozzle.txt
+Log file is closed

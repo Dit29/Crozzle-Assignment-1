@@ -1,0 +1,6 @@
+START PROCESSING FILE: Test 2 - wordlist.csv
+END PROCESSING FILE: Test 2 - wordlist.csv
+START PROCESSING FILE: Test 2 - crozzle.txt
+END PROCESSING FILE: Test 2 - crozzle.txt
+START PROCESSING CROZZLE: Test 2 - crozzle.txt
+END PROCESSING CROZZLE: Test 2 - crozzle.txt

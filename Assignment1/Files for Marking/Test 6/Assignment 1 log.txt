@@ -1,0 +1,7 @@
+Start processing file: Test 6 - wordlist.csv
+Error: line 1: block 1 is empty
+Error: line 1: total words value () is not an integer
+Error: line 1: row size value (banana) is not an integer
+Error: line 1: column size value (capsicum) is not an integer
+End procesing fileTest 6 - wordlist.csv
+Log file is closed

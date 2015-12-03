@@ -1,0 +1,8 @@
+Start processing file: Test 8 - wordlist.csv
+Error: word list size (10) does not match with total words found (10)
+End procesing fileTest 8 - wordlist.csv
+Log file is closed
+Start processing file: Test 8 - crozzle.txt
+Error: line 1: block[1, 1] has "?   ", cell should be empty or has only 1 alphabetic character
+End procesing fileTest 8 - crozzle.txt
+Log file is closed

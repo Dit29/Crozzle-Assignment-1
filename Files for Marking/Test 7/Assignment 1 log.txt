@@ -1,0 +1,23 @@
+Start processing file: Test 7 - wordlist.csv
+Error: line 1: row size value (4) is out of range
+Error: line 1: column size value (4) is out of range
+End procesing fileTest 7 - wordlist.csv
+Log file is closed
+Start processing file: Test 7 - crozzle.txt
+End procesing fileTest 7 - crozzle.txt
+Log file is closed
+Start processing file: Test 7 - wordlist.csv
+Error: line 1: row size value (4) is out of range
+Error: line 1: column size value (4) is out of range
+End procesing fileTest 7 - wordlist.csv
+Log file is closed
+Start processing file: Test 7 - wordlist.csv
+Error: line 1: row size value (4) is out of range
+Error: line 1: column size value (4) is out of range
+End procesing fileTest 7 - wordlist.csv
+Log file is closed
+Start processing file: Test 7 - wordlist.csv
+Error: line 1: row size value (4) is out of range
+Error: line 1: column size value (4) is out of range
+End procesing fileTest 7 - wordlist.csv
+Log file is closed
